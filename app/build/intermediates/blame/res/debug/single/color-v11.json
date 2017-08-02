@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yu/Documents/demo/bomb_quickstart/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/yu/.android/build-cache/267a5c2cf8fa23b9cb608b711464763f5f38065e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/yu/Documents/demo/bomb_quickstart/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/yu/.android/build-cache/267a5c2cf8fa23b9cb608b711464763f5f38065e/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

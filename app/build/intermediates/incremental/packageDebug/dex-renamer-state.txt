@@ -1,0 +1,7 @@
+#Wed Aug 02 09:31:01 CST 2017
+base.0=/Users/yu/Documents/demo/bomb_quickstart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3aa27f97eed3a04e8eea45adbe397264a31b3b2b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/yu/Documents/demo/bomb_quickstart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0d615bf39ca314ea959d23a4aee14e5f60ea526d/classes.dex
+base.1=/Users/yu/Documents/demo/bomb_quickstart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0d615bf39ca314ea959d23a4aee14e5f60ea526d
+file.0=/Users/yu/Documents/demo/bomb_quickstart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3aa27f97eed3a04e8eea45adbe397264a31b3b2b/classes.dex

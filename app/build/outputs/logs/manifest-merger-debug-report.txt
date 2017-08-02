@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:3:11-34
+		INJECTED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:5:11-36
+		INJECTED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/yu/.android/build-cache/267a5c2cf8fa23b9cb608b711464763f5f38065e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/yu/.android/build-cache/ab1c8ba1c631ed338098f55230dbaefb20244fcb/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/yu/.android/build-cache/e688f3e77375ae80d69853812da64c7ffe8220d9/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/yu/.android/build-cache/35b8f77cda6f7c02a8d9f72ee059144cae435ffa/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/yu/.android/build-cache/51f8eb845fa3fc2933e72a922371cceb3f332d82/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/yu/.android/build-cache/4d2a0d579eb22c99b4bb4a47907e614d2ecd2138/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/yu/.android/build-cache/7059ae0a0e84e569aef3bb544d1011cf2a1e3b9b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] /Users/yu/.android/build-cache/64c76053155c977eb8d406126d66ad5778d268ca/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/yu/.android/build-cache/d1b7d656e9fa2102eaa63d54a96d8b30c8bba2fe/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/yu/.android/build-cache/b14a1ccfe7282ccf00c5b4f1a57ca2a2b9fa09c3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/yu/.android/build-cache/a008024b8a2be45158453ff96c12bf4e50604b2a/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yu/.android/build-cache/267a5c2cf8fa23b9cb608b711464763f5f38065e/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:17:22-77
+application
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:19:5-35:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/yu/.android/build-cache/267a5c2cf8fa23b9cb608b711464763f5f38065e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/yu/.android/build-cache/ab1c8ba1c631ed338098f55230dbaefb20244fcb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/yu/.android/build-cache/e688f3e77375ae80d69853812da64c7ffe8220d9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/yu/.android/build-cache/35b8f77cda6f7c02a8d9f72ee059144cae435ffa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/yu/.android/build-cache/51f8eb845fa3fc2933e72a922371cceb3f332d82/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/yu/.android/build-cache/4d2a0d579eb22c99b4bb4a47907e614d2ecd2138/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/yu/.android/build-cache/7059ae0a0e84e569aef3bb544d1011cf2a1e3b9b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] /Users/yu/.android/build-cache/64c76053155c977eb8d406126d66ad5778d268ca/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/yu/.android/build-cache/b14a1ccfe7282ccf00c5b4f1a57ca2a2b9fa09c3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/yu/.android/build-cache/a008024b8a2be45158453ff96c12bf4e50604b2a/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:22:9-41
+	android:allowBackup
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:21:9-45
+	android:theme
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:23:9-40
+activity#com.bmob.fast.MainActivity
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:25:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:30:27-74
+activity#com.bmob.fast.OtherActivity
+ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:33:9-34:20
+	android:name
+		ADDED from /Users/yu/Documents/demo/bomb_quickstart/app/src/main/AndroidManifest.xml:33:19-48
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yu/.android/build-cache/267a5c2cf8fa23b9cb608b711464763f5f38065e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/yu/.android/build-cache/ab1c8ba1c631ed338098f55230dbaefb20244fcb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/yu/.android/build-cache/e688f3e77375ae80d69853812da64c7ffe8220d9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/yu/.android/build-cache/35b8f77cda6f7c02a8d9f72ee059144cae435ffa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/yu/.android/build-cache/51f8eb845fa3fc2933e72a922371cceb3f332d82/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/yu/.android/build-cache/4d2a0d579eb22c99b4bb4a47907e614d2ecd2138/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/yu/.android/build-cache/7059ae0a0e84e569aef3bb544d1011cf2a1e3b9b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/yu/.android/build-cache/b14a1ccfe7282ccf00c5b4f1a57ca2a2b9fa09c3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/yu/.android/build-cache/a008024b8a2be45158453ff96c12bf4e50604b2a/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yu/.android/build-cache/267a5c2cf8fa23b9cb608b711464763f5f38065e/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yu/.android/build-cache/267a5c2cf8fa23b9cb608b711464763f5f38065e/output/AndroidManifest.xml:26:9-47
